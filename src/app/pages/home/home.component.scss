@@ -1,0 +1,47 @@
+.banner__cards {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 2rem;
+
+    .header {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+
+        .title {
+            font-weight: bold;
+            font-size: 2rem;
+            margin: 0rem 0rem 1rem 1rem;
+        }
+
+        .see {
+            margin-right: 2rem;
+            cursor: pointer;
+        }
+    }
+
+    .footer {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-end;
+        margin-right: 2rem;
+    }
+
+    .scroll__cards {
+        overflow-x: scroll;
+        margin-bottom: 0.5rem;
+        height: 21rem;
+        .container__cards {
+            display: flex;
+            flex-direction: row;
+        }
+    }
+}
+
+.banner__cards:first-child {
+    margin-top: 2rem;
+}
+
+::-webkit-scrollbar {
+    display: none;
+}
