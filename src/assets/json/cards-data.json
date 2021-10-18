@@ -26,9 +26,97 @@
       "id": 2,
       "year": "2015",
       "marker": "hyundai",
-      "model": "iX30",
+      "model": "h1-travel",
       "price": 93805885,
-      "mainPhoto": "https://www.coches.com/fotos_historicas/hyundai/ix35-2010/hyundai_ix35-2010_r3.jpg",
+      "mainPhoto": "https://noticias.coches.com/wp-content/uploads/2018/10/Hyundai-H-1-Travel-2019-2-300x169.jpg",
+      "features": [
+        {
+          "label": "Description",
+          "description": "El Hyundai ix35 es el modelo que va a sustituir al Hyundai Tucson 2005. A pesar de su aspecto, este Hyundai no está diseñado para transitar por pistas de tierra complicadas. No tiene elementos como una reductora o una suspensión con recorridos amplios. Sí lleva un sistema que controla la velocidad en los descensos. En carretera se desenvuelve bien y ofrece un buen tacto al conductor. Este todoterreno tiene una carrocería de cinco puertas con unas medidas de 4.410 mm de largo, 1.820 mm de ancho y 1.660 mm de alto. Por dentro es amplio aunque en las plazas traseras viajarán cómodamente dos personas ya que una tercera iría algo incómoda. El maletero tiene una capacidad de 591 litros y lleva una bandeja enrollable para cubrir la carga."
+        },
+        {
+          "label": "Motor",
+          "description": "2.0 de 163 CV. Sólo puede ir asociado a un sistema de tracción delantera y a un cambio manual de cinco velocidades."
+        },
+        {
+          "label": "Equipamiento",
+          "description": "Este todoterreno está a la venta con tres niveles de equipamiento: Classic, Comfort y Style. Todas las versiones llevan de serie elementos como airbags de cabeza delanteros y traseros, airbags laterales delanteros, control de estabilidad (ESP), control de tracción (TCS), retrovisores exteriores calefactados, reposacabezas delanteros activos, retrovisores exteriores eléctricos, volante y palanca de cambio revestido de cuero, cable iPod, conexión Bluetooth para teléfono móvil y alarma antirrobo."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "year": "2015",
+      "marker": "hyundai",
+      "model": "accent",
+      "price": 93805885,
+      "mainPhoto": "https://noticias.coches.com/wp-content/uploads/2009/06/Hyundai-Accent-2006-13-300x225.jpg",
+      "features": [
+        {
+          "label": "Description",
+          "description": "El Hyundai ix35 es el modelo que va a sustituir al Hyundai Tucson 2005. A pesar de su aspecto, este Hyundai no está diseñado para transitar por pistas de tierra complicadas. No tiene elementos como una reductora o una suspensión con recorridos amplios. Sí lleva un sistema que controla la velocidad en los descensos. En carretera se desenvuelve bien y ofrece un buen tacto al conductor. Este todoterreno tiene una carrocería de cinco puertas con unas medidas de 4.410 mm de largo, 1.820 mm de ancho y 1.660 mm de alto. Por dentro es amplio aunque en las plazas traseras viajarán cómodamente dos personas ya que una tercera iría algo incómoda. El maletero tiene una capacidad de 591 litros y lleva una bandeja enrollable para cubrir la carga."
+        },
+        {
+          "label": "Motor",
+          "description": "2.0 de 163 CV. Sólo puede ir asociado a un sistema de tracción delantera y a un cambio manual de cinco velocidades."
+        },
+        {
+          "label": "Equipamiento",
+          "description": "Este todoterreno está a la venta con tres niveles de equipamiento: Classic, Comfort y Style. Todas las versiones llevan de serie elementos como airbags de cabeza delanteros y traseros, airbags laterales delanteros, control de estabilidad (ESP), control de tracción (TCS), retrovisores exteriores calefactados, reposacabezas delanteros activos, retrovisores exteriores eléctricos, volante y palanca de cambio revestido de cuero, cable iPod, conexión Bluetooth para teléfono móvil y alarma antirrobo."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "year": "2015",
+      "marker": "hyundai",
+      "model": "bayon",
+      "price": 93805885,
+      "mainPhoto": "https://noticias.coches.com/wp-content/uploads/2021/03/Hyundai-Bayon-2021-1-300x169.jpg",
+      "features": [
+        {
+          "label": "Description",
+          "description": "El Hyundai ix35 es el modelo que va a sustituir al Hyundai Tucson 2005. A pesar de su aspecto, este Hyundai no está diseñado para transitar por pistas de tierra complicadas. No tiene elementos como una reductora o una suspensión con recorridos amplios. Sí lleva un sistema que controla la velocidad en los descensos. En carretera se desenvuelve bien y ofrece un buen tacto al conductor. Este todoterreno tiene una carrocería de cinco puertas con unas medidas de 4.410 mm de largo, 1.820 mm de ancho y 1.660 mm de alto. Por dentro es amplio aunque en las plazas traseras viajarán cómodamente dos personas ya que una tercera iría algo incómoda. El maletero tiene una capacidad de 591 litros y lleva una bandeja enrollable para cubrir la carga."
+        },
+        {
+          "label": "Motor",
+          "description": "2.0 de 163 CV. Sólo puede ir asociado a un sistema de tracción delantera y a un cambio manual de cinco velocidades."
+        },
+        {
+          "label": "Equipamiento",
+          "description": "Este todoterreno está a la venta con tres niveles de equipamiento: Classic, Comfort y Style. Todas las versiones llevan de serie elementos como airbags de cabeza delanteros y traseros, airbags laterales delanteros, control de estabilidad (ESP), control de tracción (TCS), retrovisores exteriores calefactados, reposacabezas delanteros activos, retrovisores exteriores eléctricos, volante y palanca de cambio revestido de cuero, cable iPod, conexión Bluetooth para teléfono móvil y alarma antirrobo."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "year": "2015",
+      "marker": "hyundai",
+      "model": "elantra",
+      "price": 93805885,
+      "mainPhoto": "https://noticias.coches.com/wp-content/uploads/2011/12/Hyundai-Elantra-1-300x219.jpg",
+      "features": [
+        {
+          "label": "Description",
+          "description": "El Hyundai ix35 es el modelo que va a sustituir al Hyundai Tucson 2005. A pesar de su aspecto, este Hyundai no está diseñado para transitar por pistas de tierra complicadas. No tiene elementos como una reductora o una suspensión con recorridos amplios. Sí lleva un sistema que controla la velocidad en los descensos. En carretera se desenvuelve bien y ofrece un buen tacto al conductor. Este todoterreno tiene una carrocería de cinco puertas con unas medidas de 4.410 mm de largo, 1.820 mm de ancho y 1.660 mm de alto. Por dentro es amplio aunque en las plazas traseras viajarán cómodamente dos personas ya que una tercera iría algo incómoda. El maletero tiene una capacidad de 591 litros y lleva una bandeja enrollable para cubrir la carga."
+        },
+        {
+          "label": "Motor",
+          "description": "2.0 de 163 CV. Sólo puede ir asociado a un sistema de tracción delantera y a un cambio manual de cinco velocidades."
+        },
+        {
+          "label": "Equipamiento",
+          "description": "Este todoterreno está a la venta con tres niveles de equipamiento: Classic, Comfort y Style. Todas las versiones llevan de serie elementos como airbags de cabeza delanteros y traseros, airbags laterales delanteros, control de estabilidad (ESP), control de tracción (TCS), retrovisores exteriores calefactados, reposacabezas delanteros activos, retrovisores exteriores eléctricos, volante y palanca de cambio revestido de cuero, cable iPod, conexión Bluetooth para teléfono móvil y alarma antirrobo."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "year": "2015",
+      "marker": "hyundai",
+      "model": "genesis",
+      "price": 93805885,
+      "mainPhoto": "https://noticias.coches.com/wp-content/uploads/2014/07/Hyundai-Genesis-2014-01-300x225.jpg",
       "features": [
         {
           "label": "Description",
@@ -45,14 +133,14 @@
       ]
     }
   ],
-  "mazda": [
+  "Bugatti": [
     {
       "id": 1,
-      "year": "2013",
-      "marker": "mazda",
-      "model": "iX35",
-      "price": 93805885,
-      "mainPhoto": "https://www.coches.com/fotos_historicas/hyundai/ix35-2010/hyundai_ix35-2010_r3.jpg",
+      "year": "2014",
+      "marker": "bugatti",
+      "model": "Centodieci",
+      "price": 80805885,
+      "mainPhoto": "https://noticias.coches.com/wp-content/uploads/2019/08/Bugatti-Centodieci-2019-5-300x169.jpg",
       "features": [
         {
           "label": "Description",
@@ -70,11 +158,143 @@
     },
     {
       "id": 2,
-      "year": "2013",
-      "marker": "mazda",
+      "year": "2018",
+      "marker": "bugatti",
       "model": "iX35",
       "price": 93805885,
-      "mainPhoto": "https://www.coches.com/fotos_historicas/hyundai/ix35-2010/hyundai_ix35-2010_r3.jpg",
+      "mainPhoto": "https://noticias.coches.com/wp-content/uploads/2016/02/Bugatti-Chiron-2016-dinamica-01-300x200.jpg",
+      "features": [
+        {
+          "label": "Description",
+          "description": "El Hyundai ix35 es el modelo que va a sustituir al Hyundai Tucson 2005. A pesar de su aspecto, este Hyundai no está diseñado para transitar por pistas de tierra complicadas. No tiene elementos como una reductora o una suspensión con recorridos amplios. Sí lleva un sistema que controla la velocidad en los descensos. En carretera se desenvuelve bien y ofrece un buen tacto al conductor. Este todoterreno tiene una carrocería de cinco puertas con unas medidas de 4.410 mm de largo, 1.820 mm de ancho y 1.660 mm de alto. Por dentro es amplio aunque en las plazas traseras viajarán cómodamente dos personas ya que una tercera iría algo incómoda. El maletero tiene una capacidad de 591 litros y lleva una bandeja enrollable para cubrir la carga."
+        },
+        {
+          "label": "Motor",
+          "description": "2.0 de 163 CV. Sólo puede ir asociado a un sistema de tracción delantera y a un cambio manual de cinco velocidades."
+        },
+        {
+          "label": "Equipamiento",
+          "description": "Este todoterreno está a la venta con tres niveles de equipamiento: Classic, Comfort y Style. Todas las versiones llevan de serie elementos como airbags de cabeza delanteros y traseros, airbags laterales delanteros, control de estabilidad (ESP), control de tracción (TCS), retrovisores exteriores calefactados, reposacabezas delanteros activos, retrovisores exteriores eléctricos, volante y palanca de cambio revestido de cuero, cable iPod, conexión Bluetooth para teléfono móvil y alarma antirrobo."
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "year": "2018",
+      "marker": "bugatti",
+      "model": "divo",
+      "price": 93805885,
+      "mainPhoto": "https://noticias.coches.com/wp-content/uploads/2018/08/bugatti-divo-3-300x169.jpg",
+      "features": [
+        {
+          "label": "Description",
+          "description": "El Hyundai ix35 es el modelo que va a sustituir al Hyundai Tucson 2005. A pesar de su aspecto, este Hyundai no está diseñado para transitar por pistas de tierra complicadas. No tiene elementos como una reductora o una suspensión con recorridos amplios. Sí lleva un sistema que controla la velocidad en los descensos. En carretera se desenvuelve bien y ofrece un buen tacto al conductor. Este todoterreno tiene una carrocería de cinco puertas con unas medidas de 4.410 mm de largo, 1.820 mm de ancho y 1.660 mm de alto. Por dentro es amplio aunque en las plazas traseras viajarán cómodamente dos personas ya que una tercera iría algo incómoda. El maletero tiene una capacidad de 591 litros y lleva una bandeja enrollable para cubrir la carga."
+        },
+        {
+          "label": "Motor",
+          "description": "2.0 de 163 CV. Sólo puede ir asociado a un sistema de tracción delantera y a un cambio manual de cinco velocidades."
+        },
+        {
+          "label": "Equipamiento",
+          "description": "Este todoterreno está a la venta con tres niveles de equipamiento: Classic, Comfort y Style. Todas las versiones llevan de serie elementos como airbags de cabeza delanteros y traseros, airbags laterales delanteros, control de estabilidad (ESP), control de tracción (TCS), retrovisores exteriores calefactados, reposacabezas delanteros activos, retrovisores exteriores eléctricos, volante y palanca de cambio revestido de cuero, cable iPod, conexión Bluetooth para teléfono móvil y alarma antirrobo."
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "year": "2018",
+      "marker": "bugatti",
+      "model": "La Voiture Noire",
+      "price": 93805885,
+      "mainPhoto": "https://noticias.coches.com/wp-content/uploads/2019/03/bugatti-la-voiture-noire-24-300x169.jpg",
+      "features": [
+        {
+          "label": "Description",
+          "description": "El Hyundai ix35 es el modelo que va a sustituir al Hyundai Tucson 2005. A pesar de su aspecto, este Hyundai no está diseñado para transitar por pistas de tierra complicadas. No tiene elementos como una reductora o una suspensión con recorridos amplios. Sí lleva un sistema que controla la velocidad en los descensos. En carretera se desenvuelve bien y ofrece un buen tacto al conductor. Este todoterreno tiene una carrocería de cinco puertas con unas medidas de 4.410 mm de largo, 1.820 mm de ancho y 1.660 mm de alto. Por dentro es amplio aunque en las plazas traseras viajarán cómodamente dos personas ya que una tercera iría algo incómoda. El maletero tiene una capacidad de 591 litros y lleva una bandeja enrollable para cubrir la carga."
+        },
+        {
+          "label": "Motor",
+          "description": "2.0 de 163 CV. Sólo puede ir asociado a un sistema de tracción delantera y a un cambio manual de cinco velocidades."
+        },
+        {
+          "label": "Equipamiento",
+          "description": "Este todoterreno está a la venta con tres niveles de equipamiento: Classic, Comfort y Style. Todas las versiones llevan de serie elementos como airbags de cabeza delanteros y traseros, airbags laterales delanteros, control de estabilidad (ESP), control de tracción (TCS), retrovisores exteriores calefactados, reposacabezas delanteros activos, retrovisores exteriores eléctricos, volante y palanca de cambio revestido de cuero, cable iPod, conexión Bluetooth para teléfono móvil y alarma antirrobo."
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "year": "2020",
+      "marker": "bugatti",
+      "model": "Veyron",
+      "price": 93805885,
+      "mainPhoto": "https://noticias.coches.com/wp-content/uploads/2011/02/Bugatti-Veyron-2005-3-300x169.jpg",
+      "features": [
+        {
+          "label": "Description",
+          "description": "El Hyundai ix35 es el modelo que va a sustituir al Hyundai Tucson 2005. A pesar de su aspecto, este Hyundai no está diseñado para transitar por pistas de tierra complicadas. No tiene elementos como una reductora o una suspensión con recorridos amplios. Sí lleva un sistema que controla la velocidad en los descensos. En carretera se desenvuelve bien y ofrece un buen tacto al conductor. Este todoterreno tiene una carrocería de cinco puertas con unas medidas de 4.410 mm de largo, 1.820 mm de ancho y 1.660 mm de alto. Por dentro es amplio aunque en las plazas traseras viajarán cómodamente dos personas ya que una tercera iría algo incómoda. El maletero tiene una capacidad de 591 litros y lleva una bandeja enrollable para cubrir la carga."
+        },
+        {
+          "label": "Motor",
+          "description": "2.0 de 163 CV. Sólo puede ir asociado a un sistema de tracción delantera y a un cambio manual de cinco velocidades."
+        },
+        {
+          "label": "Equipamiento",
+          "description": "Este todoterreno está a la venta con tres niveles de equipamiento: Classic, Comfort y Style. Todas las versiones llevan de serie elementos como airbags de cabeza delanteros y traseros, airbags laterales delanteros, control de estabilidad (ESP), control de tracción (TCS), retrovisores exteriores calefactados, reposacabezas delanteros activos, retrovisores exteriores eléctricos, volante y palanca de cambio revestido de cuero, cable iPod, conexión Bluetooth para teléfono móvil y alarma antirrobo."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "year": "2020",
+      "marker": "bugatti",
+      "model": "V.Grand Sport",
+      "price": 93805885,
+      "mainPhoto": "https://noticias.coches.com/wp-content/uploads/2010/06/bugatti_veyron_grand_sport_04-300x200.jpg",
+      "features": [
+        {
+          "label": "Description",
+          "description": "El Hyundai ix35 es el modelo que va a sustituir al Hyundai Tucson 2005. A pesar de su aspecto, este Hyundai no está diseñado para transitar por pistas de tierra complicadas. No tiene elementos como una reductora o una suspensión con recorridos amplios. Sí lleva un sistema que controla la velocidad en los descensos. En carretera se desenvuelve bien y ofrece un buen tacto al conductor. Este todoterreno tiene una carrocería de cinco puertas con unas medidas de 4.410 mm de largo, 1.820 mm de ancho y 1.660 mm de alto. Por dentro es amplio aunque en las plazas traseras viajarán cómodamente dos personas ya que una tercera iría algo incómoda. El maletero tiene una capacidad de 591 litros y lleva una bandeja enrollable para cubrir la carga."
+        },
+        {
+          "label": "Motor",
+          "description": "2.0 de 163 CV. Sólo puede ir asociado a un sistema de tracción delantera y a un cambio manual de cinco velocidades."
+        },
+        {
+          "label": "Equipamiento",
+          "description": "Este todoterreno está a la venta con tres niveles de equipamiento: Classic, Comfort y Style. Todas las versiones llevan de serie elementos como airbags de cabeza delanteros y traseros, airbags laterales delanteros, control de estabilidad (ESP), control de tracción (TCS), retrovisores exteriores calefactados, reposacabezas delanteros activos, retrovisores exteriores eléctricos, volante y palanca de cambio revestido de cuero, cable iPod, conexión Bluetooth para teléfono móvil y alarma antirrobo."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "year": "2020",
+      "marker": "bugatti",
+      "model": "V.Grand Sport",
+      "price": 93805885,
+      "mainPhoto": "https://noticias.coches.com/wp-content/uploads/2010/06/bugatti_veyron_grand_sport_04-300x200.jpg",
+      "features": [
+        {
+          "label": "Description",
+          "description": "El Hyundai ix35 es el modelo que va a sustituir al Hyundai Tucson 2005. A pesar de su aspecto, este Hyundai no está diseñado para transitar por pistas de tierra complicadas. No tiene elementos como una reductora o una suspensión con recorridos amplios. Sí lleva un sistema que controla la velocidad en los descensos. En carretera se desenvuelve bien y ofrece un buen tacto al conductor. Este todoterreno tiene una carrocería de cinco puertas con unas medidas de 4.410 mm de largo, 1.820 mm de ancho y 1.660 mm de alto. Por dentro es amplio aunque en las plazas traseras viajarán cómodamente dos personas ya que una tercera iría algo incómoda. El maletero tiene una capacidad de 591 litros y lleva una bandeja enrollable para cubrir la carga."
+        },
+        {
+          "label": "Motor",
+          "description": "2.0 de 163 CV. Sólo puede ir asociado a un sistema de tracción delantera y a un cambio manual de cinco velocidades."
+        },
+        {
+          "label": "Equipamiento",
+          "description": "Este todoterreno está a la venta con tres niveles de equipamiento: Classic, Comfort y Style. Todas las versiones llevan de serie elementos como airbags de cabeza delanteros y traseros, airbags laterales delanteros, control de estabilidad (ESP), control de tracción (TCS), retrovisores exteriores calefactados, reposacabezas delanteros activos, retrovisores exteriores eléctricos, volante y palanca de cambio revestido de cuero, cable iPod, conexión Bluetooth para teléfono móvil y alarma antirrobo."
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "year": "2020",
+      "marker": "bugatti",
+      "model": "V.Grand Sport",
+      "price": 93805885,
+      "mainPhoto": "https://noticias.coches.com/wp-content/uploads/2010/06/bugatti_veyron_grand_sport_04-300x200.jpg",
       "features": [
         {
           "label": "Description",
