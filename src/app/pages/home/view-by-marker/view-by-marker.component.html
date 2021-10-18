@@ -1,0 +1,5 @@
+<app-header class="header" [dataSource]="headerComponent" (getHeader)="getHeader($event)"></app-header>
+
+<div class="container__view__cards">
+  <app-card class="container__cards" [dataSource]="listCardsHTML" (selectedCard)="selectedCard($event)"></app-card>
+</div>

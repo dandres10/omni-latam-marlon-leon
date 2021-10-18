@@ -1,15 +1,13 @@
 <div class="container__card" *ngFor="let car of dataSource">
-  <mat-card class="card" >
+  <mat-card class="card">
     <img mat-card-image src={{car.mainPhoto}} alt="Photo of a Shiba Inu">
-    <mat-card-content>
-      <p>
-        Modelo 1
-      </p>
+    <mat-card-content class="card__content">
+      <div class="description">Modelo {{car.model}}</div>
+      <div class="description">Año {{car.year}}</div>
+      <div class="description">Precio {{car.price | currency}}</div>
     </mat-card-content>
     <mat-card-actions>
-      <button mat-button (click)="seeDescription(car)">Ver</button>
+      <button mat-button (click)="seeDescription(car)" >Ver</button>
     </mat-card-actions>
   </mat-card>
 </div>
-
-

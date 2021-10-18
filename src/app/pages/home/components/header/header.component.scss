@@ -1,0 +1,55 @@
+.narvar {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    margin-bottom: 2rem;
+    box-shadow: -1px 7px 7px -2px rgba(0, 0, 0, 0.35);
+
+    .title {
+        margin: 0rem 0rem 0rem 1rem;
+        font-size: 3rem;
+        cursor: pointer;
+        font-weight: bolder;
+    }
+
+    .input {
+        width: 200px;
+        margin: 0.5rem 1rem 0rem 1rem;
+    }
+}
+
+.contaniner__sentence {
+    display: flex;
+    align-items: center;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    max-width: 100%;
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+    justify-content: center;
+    background-color: grey;
+    color: white;
+    height: 5rem;
+    border-radius: 3px;
+    .sentence{
+        padding: 1rem;
+    
+    }
+}
+
+@media (max-width: 380px) {
+    .narvar {
+        .title {
+            margin-top: 2rem;
+        }
+
+        .input {
+            width: 150px;
+            margin-top: 1rem;
+        }
+    }
+}

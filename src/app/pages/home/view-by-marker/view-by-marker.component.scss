@@ -1,0 +1,13 @@
+.container__view__cards {
+    width: 100%;
+    padding-bottom: 10rem;
+    .container__cards {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+       
+    }
+}
+
+

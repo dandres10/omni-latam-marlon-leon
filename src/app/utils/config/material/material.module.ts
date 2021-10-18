@@ -1,6 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 
+import {MatIconModule} from '@angular/material/icon';
 import { MatMenuModule } from '@angular/material/menu';
 import { MatCardModule } from '@angular/material/card';
 import { MatTableModule } from '@angular/material/table';
@@ -10,6 +11,7 @@ import { MatDialogModule } from '@angular/material/dialog';
 import { MatSelectModule } from '@angular/material/select';
 import { MatPaginatorModule } from '@angular/material/paginator';
 import { MatFormFieldModule } from '@angular/material/form-field';
+import {MatExpansionModule} from '@angular/material/expansion';
 
 @NgModule({
   imports: [
@@ -22,7 +24,9 @@ import { MatFormFieldModule } from '@angular/material/form-field';
     MatTableModule,
     MatPaginatorModule,
     MatSelectModule,
-    MatInputModule
+    MatInputModule,
+    MatIconModule,
+    MatExpansionModule
   ],
   exports: [
     MatMenuModule,
@@ -33,7 +37,9 @@ import { MatFormFieldModule } from '@angular/material/form-field';
     MatTableModule,
     MatPaginatorModule,
     MatSelectModule,
-    MatInputModule
+    MatInputModule,
+    MatIconModule,
+    MatExpansionModule
   ],
   declarations: []
 })

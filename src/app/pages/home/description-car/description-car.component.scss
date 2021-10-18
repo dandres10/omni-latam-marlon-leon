@@ -1,0 +1,45 @@
+.container__description {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    max-width: 100%;
+    margin: 3rem 1rem 1rem 1rem;
+    justify-content: space-around;
+
+    .img {
+        margin-left: 0.1rem;
+        width: 16rem;
+        height: 30vh;
+        border-radius: 0.5rem;
+    }
+
+    .expansion__panels {
+        display: flex;
+        width: 55%;
+        justify-content: center;
+
+        .accordion {
+            width: 100%;
+        }
+    }
+}
+
+.mat-form-field + .mat-form-field {
+    margin-left: 8px;
+}
+
+@media (max-width: 600px) {
+    .container__description {
+        justify-content: center;
+        .img {
+            margin-left: 0;
+            width: 90%;
+            border-radius: 0.5rem;
+            margin-bottom: 2rem;
+            height: auto;
+        }
+        .expansion__panels {
+            width: 100%;
+        }
+    }
+}

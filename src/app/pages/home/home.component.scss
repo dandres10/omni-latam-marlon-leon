@@ -7,6 +7,7 @@
         display: flex;
         flex-direction: row;
         justify-content: space-between;
+        flex-wrap: wrap;
 
         .title {
             font-weight: bold;
@@ -29,14 +30,15 @@
 
     .scroll__cards {
         overflow-x: scroll;
-        margin-bottom: 0.5rem;
-        height: 21rem;
+        height: 18rem;
         .container__cards {
+            position: relative;
             display: flex;
             flex-direction: row;
         }
     }
 }
+
 
 .banner__cards:first-child {
     margin-top: 2rem;
@@ -44,4 +46,16 @@
 
 ::-webkit-scrollbar {
     display: none;
+}
+
+@media (max-width: 380px) {
+    .banner__cards {
+        .header {
+            .see {
+                margin-left: 1rem;
+
+                cursor: pointer;
+            }
+        }
+    }
 }

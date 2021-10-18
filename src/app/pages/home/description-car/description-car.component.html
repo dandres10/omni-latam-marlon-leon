@@ -1,0 +1,20 @@
+<app-header [dataSource]="headerComponent" (getHeader)="getHeader($event)"></app-header>
+
+<div class="container__description">
+  <img class="img" mat-card-image src={{car.mainPhoto}} alt="Photo of a Shiba Inu">
+  <div class="expansion__panels">
+    <mat-accordion class="accordion">
+
+      <mat-expansion-panel hideToggle *ngFor="let item of car.features">
+        <mat-expansion-panel-header>
+          <mat-panel-title>
+            {{item.label}}
+          </mat-panel-title>
+        </mat-expansion-panel-header>
+        <p> {{item.description}}</p>
+      </mat-expansion-panel>
+
+    </mat-accordion>
+  </div>
+
+</div>
